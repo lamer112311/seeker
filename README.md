@@ -1,3 +1,10 @@
+Original repository: https://github.com/thewhiteh4t/seeker
+Оригинальный репозиторий: https://github.com/thewhiteh4t/seeker
+
+Данный репозиторий переведен на русский мной(https://github.com/lamer112311)
+Телеграм: http://t.me/lamer112311
+Тегерам канал: https://t.me/Cyber_Puffin
+
 <p align="center"><img src="https://i.imgur.com/DIpuNTI.jpg"></p>
 
 <p align="center">
